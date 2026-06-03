@@ -4,7 +4,7 @@
   "private": true,
   "author": "Creative Tim",
   "license": "See license in https://www.creative-tim.com/license",
-  "homepage": "https://themewagon.github.io/nextjs-tailwind-event",
+  "homepage": "https://themewagon.github.io/material-tailwind-event",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
