@@ -6,8 +6,8 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-  basePath: "/nextjs-tailwind-event",
-  assetPrefix: "/nextjs-tailwind-event",
+  basePath: "/material-tailwind-event",
+  assetPrefix: "/material-tailwind-event",
   output: 'export',
   trailingSlash: true,
   images: {
