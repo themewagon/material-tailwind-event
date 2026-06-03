@@ -1,16 +1,16 @@
 # NextJS Tailwind Event Landing Page
 #### Preview
 
- - [Demo](https://themewagon.github.io/nextjs-tailwind-event/)
+ - [Demo](https://themewagon.github.io/material-tailwind-event/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/nextjs-tailwind-event/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/material-tailwind-event/)
 
 ## Getting Started
 
 1. Clone Repository
 ```
-git clone https://github.com/themewagon/nextjs-tailwind-event.git
+git clone https://github.com/themewagon/material-tailwind-event.git
 ```
 2. Install Dependencies
 ```
