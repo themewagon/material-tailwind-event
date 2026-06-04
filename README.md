@@ -4,7 +4,7 @@
  - [Demo](https://themewagon.github.io/material-tailwind-event/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/coursedetailspage/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/material-tailwind-event/)
 
 ## Getting Started
 
